@@ -1,4 +1,3 @@
-### Hello World!👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA3YTkxNmE1OGJmYzYxNDExMDYxMWI4YmQ1OTFhOGVkYzE5MjUyZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -11,6 +10,10 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=daegilro&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hello World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 
