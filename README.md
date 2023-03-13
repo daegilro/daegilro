@@ -15,8 +15,19 @@
   <img src="https://komarev.com/ghpvc/?username=daegilro&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA3YTkxNmE1OGJmYzYxNDExMDYxMWI4YmQ1OTFhOGVkYzE5MjUyZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
+
+---
+
+### 👨‍💻: About Me :
+- ⚙️: I am a mechatronic engineer, passionate about new technologies, sports and art.
+
+- 🤖: I have experience in design, control and automation of industrial processes, mechanisms and IoT technologies.
+
+- ⚡: I like to work on projects where I can mix electronics, code and art.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daegilro/)
 
 
 
