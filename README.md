@@ -1,6 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA3YTkxNmE1OGJmYzYxNDExMDYxMWI4YmQ1OTFhOGVkYzE5MjUyZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <h1>
+  Hello World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/daegilro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,10 +13,9 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=daegilro&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hello World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 
