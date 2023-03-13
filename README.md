@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=daegilro&style=flat-square&color=blue" alt=""/>
 </div>
 
 
