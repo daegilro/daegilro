@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
+  <img src="https://tenor.com/view/rz-ds-project-gif-24176703" width="100"/>
 </div>
 
 
